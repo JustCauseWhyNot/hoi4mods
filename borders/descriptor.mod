@@ -3,5 +3,4 @@ tags={
 	"Graphics"
 }
 name="Borders"
-supported_version="1.13.5"
-remote_file_id="3061803690"
+supported_version="1.16.9"
